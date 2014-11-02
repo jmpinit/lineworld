@@ -1,8 +1,7 @@
 lineworld
 =========
 
-by Owen Trueblood
-finished 11/9/10 (a high school project)
+_Finished 11/9/10 (a high school project)_
 
 ![](http://hackniac.com/images/posts/lineworld/lineworld.gif)
 
